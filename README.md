@@ -1,0 +1,2 @@
+# bigDataSolution
+Using git bash
